@@ -1,7 +1,7 @@
-# @inobra-ui/react
+# @ignite-ui/react
 
-## 1.0.1
+## 1.0.0
 
-### Patch Changes
+### Major Changes
 
-- Add option to pass refrence to TextInput and adjust some styles
+- Create packages

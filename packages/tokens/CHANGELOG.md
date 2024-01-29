@@ -1,7 +1,7 @@
-# @inobra-ui/tokens
+# @ignite-ui/tokens
 
-## 1.1.0
+## 1.0.0
 
-### Minor Changes
+### Major Changes
 
-- Add new test color
+- Create packages

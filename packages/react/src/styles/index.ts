@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@inobra-ui/tokens'
+} from '@ignite-ui/tokens'
 
 export const {
   styled,
